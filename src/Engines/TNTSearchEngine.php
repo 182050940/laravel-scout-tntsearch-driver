@@ -1,6 +1,6 @@
 <?php
 
-namespace TeamTNT\Scout\Engines;
+namespace Laoliu\Scout\Engines;
 
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\SoftDeletes;

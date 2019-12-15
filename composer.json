@@ -1,5 +1,5 @@
 {
-    "name": "teamtnt/laravel-scout-tntsearch-driver",
+    "name": "laoliu/laravel-scout-tntsearch-driver",
     "description": "Driver for Laravel Scout search package based on https://github.com/teamtnt/tntsearch",
     "keywords": ["tntsearch", "search", "scout", "laravel"],
     "license": "MIT",
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TeamTNT\\Scout\\": "src/"
+            "Laoliu\\Scout\\": "src/"
         }
     },
     "autoload-dev": {
@@ -38,7 +38,7 @@
         },
         "laravel": {
             "providers": [
-                "TeamTNT\\Scout\\TNTSearchScoutServiceProvider"
+                "Laoliu\\Scout\\TNTSearchScoutServiceProvider"
             ]
         }
     },

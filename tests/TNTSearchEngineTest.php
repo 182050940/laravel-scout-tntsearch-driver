@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Eloquent\Collection;
-use TeamTNT\Scout\Engines\TNTSearchEngine;
+use Laoliu\Scout\Engines\TNTSearchEngine;
 
 class TNTSearchEngineTest extends PHPUnit_Framework_TestCase
 {
